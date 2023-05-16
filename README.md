@@ -12,10 +12,4 @@ Anda dapat melihat pratinjau proyek "Create a Website with Bootstrap" melalui li
 - Komponen UI Bootstrap yang siap pakai
 - Penggunaan grid system Bootstrap
 
-## Instalasi
 
-Untuk menjalankan proyek ini secara lokal, ikuti langkah-langkah berikut:
-
-1. Clone repositori ini ke komputer Anda dengan perintah berikut:
-   ```bash
-   git clone https://github.com/akhmadnuryasin/create-a-website-with-bootstrap.git
